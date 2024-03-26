@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
   "sdk": {
     "version": "7.0.203"
   }
+=======
+{
+  "sdk": {
+    "version": "7.0.203"
+  }
+>>>>>>> 86fa78c2f86d0ab0cefda22ad77e1f6e819c784a
 }
